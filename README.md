@@ -1,5 +1,5 @@
 # KokocordModRepo
-The official repository for the Kokocord Tampermonkey Extension Library (KTEL).
+The official repository for the Kokocord TamperMonkey Extension Library (KTEL).
 
 ## Installation Instructions
 Installation instructions for each addon can be found in the Wiki.
